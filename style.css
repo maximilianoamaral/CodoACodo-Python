@@ -1,0 +1,29 @@
+/* body{
+   background-image: "file:///C:/Users/franc/OneDrive/Desktop/CursoPhyton/ProyectoGrupal/Repositorio/Abel.PNG" !important;
+}*/
+
+.banner{ 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #000000; 
+    width: 100%; 
+  }
+#banner-content{ 
+    align-self: center;
+    width: auto; 
+    margin: 0 auto; 
+    padding: 10px; 
+    border: 1px solid #000;
+    color: white;
+  }
+#main-content{ 
+    padding-top: 70px;
+ }
+ #banana{
+    color: black;
+ }
+ p{
+    font-size: larger;
+    color: pink;
+ }
